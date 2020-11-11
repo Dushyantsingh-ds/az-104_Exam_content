@@ -8,7 +8,8 @@ az-104 Microsoft Azure Cloud Administrator Associate Certification preparation C
 
 ## 2- Go to youtube channel 
 ### 2.1- HarshArena 
-I hight Recommanded this YouTube channel, Storage & Conceptual playlist are seprated, 
+I highly Recommanded this YouTube channel, Storage & Conceptual playlist are seprated, Don't miss anyone
+
 [Here](https://www.youtube.com/channel/UChVlvP-HHRnQiA21x6V8nKA/playlists)
 
 
